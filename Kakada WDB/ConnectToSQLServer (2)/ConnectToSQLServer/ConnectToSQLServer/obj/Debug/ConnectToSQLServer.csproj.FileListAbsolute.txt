@@ -1,0 +1,16 @@
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe.config
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.pdb
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csproj.AssemblyReference.cache
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.Properties.Resources.resources
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csproj.GenerateResource.cache
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csproj.CoreCompileInputs.cache
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.exe
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.pdb
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.frmLogin.resources
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.frnMainForm.resources
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.frmViewPeople.resources
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.frmLuckyDraw.resources
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.frmProduct.resources
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.frmProductOrder.resources
+D:\Y2S2\C# III\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.frmPayment.resources
